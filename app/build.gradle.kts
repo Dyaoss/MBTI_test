@@ -10,7 +10,6 @@ android {
     defaultConfig {
         applicationId = "com.example.mymbti_tester"
         minSdk = 33
-        targetSdk = 34
         versionCode = 1
         versionName = "1.0"
 
